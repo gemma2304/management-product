@@ -1,4 +1,4 @@
-1. Import file App_ManajemenProduk ke netbeans
+1. Import file zip App_ManajemenProduk ke netbeans
 2. Pada bagian library, import jar nya yg terdapat pada folder library
   - Jangan langsung import folder, tapi klik jar yang ada di dalamnya (bisa langsung di klik semua sekaligus jadi ga perlu satu satu)
   - jangan lupa import file jar mysql connector yang ada di dalam folder library/mysql
